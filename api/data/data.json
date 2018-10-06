@@ -1,0 +1,101 @@
+{
+  "size_descriptors":[
+    "extra tall",
+    "tall",
+    "medium",
+    "extra short",
+    "short",
+    "extra small",
+    "small"
+  ],
+  "fat_descriptors": [
+    "extra skinny",
+    "skinny",
+    "extra creamy",
+    "creamy"
+  ],
+  "milk_origin_descriptors": [
+    "austrian",
+    "russian",
+    "free-range",
+    "spanish",
+    "british"
+  ],
+  "milk_type_descriptors": [
+    "goats",
+    "rabbit",
+    "camel",
+    "soy"
+  ],
+  "strength_descriptors": [
+    "double",
+    "decaf",
+    "decaffinated",
+    "double strength",
+    "strong",
+    "triple-strength",
+    "double-shot",
+    "triple-shot",
+    "quadruple-shot",
+    "quintiple-shot"
+  ],
+  "coffee_type": [
+    "Espresso",
+    "Double Espresso",
+    "Short Macchiato",
+    "Long Macchiato",
+    "Ristretto",
+    "Café Latte",
+    "Cappuccino",
+    "Flat White",
+    "Piccolo Latte",
+    "Mocha",
+    "Affogato"
+  ],
+  "addition_phrases": [
+    "with a dash of",
+    "plus a little",
+    "plus a shot of",
+    "brought together by",
+    "complemented by",
+    "highlighted with",
+    "complemented with",
+    "with a little",
+    "plus a dash of"
+  ],
+  "primary_addition_origin": [
+    "Madagascan",
+    "African",
+    "House-Made",
+    "French-Matured"
+  ],
+  "primary_addition": [
+    "Caramel",
+    "Cinnamon",
+    "Whiskey",
+    "Nutmeg",
+    "Chilli",
+    "Chocolate",
+    "Vermouth"
+  ],
+  "addition_combinator": [
+    "and some",
+    "alongside some"
+  ],
+  "secondary_addition_origin": [
+    "Madagascan",
+    "African",
+    "House-Made",
+    "French-Matured"
+  ],
+  "secondary_addition": [
+    "Butter",
+    "Himalyan Salt",
+    "Egg",
+    "Lemon",
+    "Lime",
+    "Coconut Milk",
+    "Gold Leaf",
+    "Vanilla"
+  ]
+}
